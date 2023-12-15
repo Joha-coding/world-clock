@@ -1,12 +1,18 @@
 body {
-  background: rgb(31, 31, 31);
-  color: white;
+  background: #212121;
+  color: #dbd8e3;
 }
 
 h1 {
   text-align: center;
+  color: antiquewhite;
 }
 
 footer {
   text-align: center;
+}
+
+.footer-link {
+  color: antiquewhite;
+  text-decoration: none;
 }
